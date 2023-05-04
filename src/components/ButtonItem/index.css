@@ -1,0 +1,18 @@
+.button-item {
+  list-style-type: none;
+}
+
+.button-style {
+  font-family: 'Roboto';
+  font-size: 14px;
+  border: 1px solid #db1c48;
+  color: #db1c48;
+  border-radius: 16px;
+  padding: 4px 14px 4px 14px;
+  background-color: transparent;
+}
+
+.bg-color {
+  background-color: #db1c48;
+  color: #ffffff;
+}
